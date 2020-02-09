@@ -15,7 +15,7 @@ namespace KarolinaTests
             () =>
             {
                 new Specyfication(
-                    "", "", "",""
+                    "", " ", " "," "
                   );
             }
             );
